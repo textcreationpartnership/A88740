@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last votes from the armie: Iune 26. 1647. Communicated to the commons of England, and the citizens of England, and the citizens of London. Wherein they declare, their full resolutions, concerning their marching up towards the suburbs of London. As also, their last reasons and propositions, touching the over-awing power of divers persons, against the faithfull worthies of England, assembled in Parliament, and their besetting and shutting up of the doores against them.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88740</idno>
+            <idno type="STC">Wing L511</idno>
+            <idno type="STC">Thomason E394_10</idno>
+            <idno type="STC">ESTC R201624</idno>
+            <idno type="EEBO-CITATION">99862124</idno>
+            <idno type="PROQUEST">99862124</idno>
+            <idno type="VID">114273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114273)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E394[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last votes from the armie: Iune 26. 1647. Communicated to the commons of England, and the citizens of England, and the citizens of London. Wherein they declare, their full resolutions, concerning their marching up towards the suburbs of London. As also, their last reasons and propositions, touching the over-awing power of divers persons, against the faithfull worthies of England, assembled in Parliament, and their besetting and shutting up of the doores against them.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Watson,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>June 28. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114273:1" rendition="simple:additions"/>
+            <p>THE LAST VOTES FROM THE ARMIE: <hi>Iune</hi> 26. 1647.</p>
+            <p>Communicated To the Commons of England, and the Citi<g ref="char:EOLhyphen"/>zens of <hi>London.</hi>
+            </p>
+            <p>Wherein they declare, Their full Reſolutions, concerning their mar<g ref="char:EOLhyphen"/>ching up towards the Suburbs of London.</p>
+            <p>As alſo, their laſt Reaſons and Propoſitions, touching the over-awing power of divers perſons, againſt the faithfull Worthies of England, aſſem<g ref="char:EOLhyphen"/>bled in Parliament, and their beſetting and ſhutting up of the Doores againſt them.</p>
+            <p>London, <hi>Printed for</hi> Thomas Watſon, June 28. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114273:2"/>
+            <pb facs="tcp:114273:2"/>
+            <head>THE LAST VOTES FROM THE ARMY</head>
+            <opener>
+               <salute>Kind Sir,</salute>
+            </opener>
+            <p>THeſe are to certifie you, that your pre<g ref="char:EOLhyphen"/>ſent proceedings at this inſtant in your great and ſpacious Metropolis, doth not a little perplexe the hearts of di<g ref="char:EOLhyphen"/>vers within the Army; and the moſt hard and cruell cenſures which we now undergo, doth not a little ſtirre up our ſpirits, to be
+<pb facs="tcp:114273:3"/> ſpectations and Auditors of the innumera<g ref="char:EOLhyphen"/>ble ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of tongues, whoſe mouths a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> open againſt our preſent proceedings; yet never<g ref="char:EOLhyphen"/>theleſſe, we doubt not, but to make it appear to all the world, our candid intentions, and reſolutions, for the preſervation of his Maje<g ref="char:EOLhyphen"/>ſties Royall Perſon, the Being and Priviled<g ref="char:EOLhyphen"/>ges of Parliament, the Liberty and Proprie<g ref="char:EOLhyphen"/>ty of the Subject, and the good of the whole Kingdom in generall; And although there be many falſe aſperſions caſt upon the army, concerning our neerer approach towards your City, by ſaying, that wee come for the lucre of gain, more then for the Kingdomes good; and that we have many amongſt us, whoſe aymes are, at the rich plunder of the City.</p>
+            <p>But I can aſſure you, theſe inveterate ſug<g ref="char:EOLhyphen"/>geſtions are utterly falſe, ſuch barbarous ac<g ref="char:EOLhyphen"/>tions we deteſt and abhor; and I dare ſay this, in behalf of the Army, that there are none amongſt us, but would willingly ſacri<g ref="char:EOLhyphen"/>fice their lives for the good and preſervation of that famous City, having ſundry times en<g ref="char:EOLhyphen"/>gaged with them againſt the common-ene<g ref="char:EOLhyphen"/>my of this Kingdome.</p>
+            <pb facs="tcp:114273:3"/>
+            <p>But we hope our future actions will make it evident, that all our former proceedings tended only to the peace and tranquility of this Nation, and that our actions and endea<g ref="char:EOLhyphen"/>vours were o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly for the ſtating of his Maje<g ref="char:EOLhyphen"/>ſty in his Royall Rights, and preſervation of the peace of the Kingdome.</p>
+            <p>And therefore the Army thought it meet to declare againſt ſuch members, whom they found enemies to the peace thereof; but we do begin to diſcern ſome obſtruction in the ſaid buſineſſe, which is the only cauſe of the publiſhing of the enſuing Reaſons, touching the ſaid party, viz.</p>
+            <p>That ſince the ſame difficulties or prejudices lye yet in their way (as to the particular charging or proofe of thoſe things againſt the Members and the Parliament) though ſo often put upon it in our for<g ref="char:EOLhyphen"/>mer Papers, yet through the powerfull intereſt of the perſons guilty, hath not taken any cognizance, what Members or others have ſo abuſed them, to draw the Parliament to ſuch diſhonour and inconve<g ref="char:EOLhyphen"/>niences, We cannot but againe more fully and clear<g ref="char:EOLhyphen"/>ly aſſert (as we have in former Papers, and ſhall yet more particularly, if neede be, remonſtrate) That di<g ref="char:EOLhyphen"/>vers things lately done and paſſed from the Parlia<g ref="char:EOLhyphen"/>ment againſt the Army, as particularly the order for ſuppreſſing the Petition, that high Declaration a<g ref="char:EOLhyphen"/>gainſt
+<pb facs="tcp:114273:4"/> it, and againſt all that ſhould proceede in it, putting the faithfull Servants of the Parliament and t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Kingdome out of the Protection of Law, and ex<g ref="char:EOLhyphen"/>poſing them as Enemies to the State, &amp;c. to the for<g ref="char:EOLhyphen"/>feitures of the Eſtates, Libe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries, Life and all, but for going about in an humble, peaceable, and inoffen<g ref="char:EOLhyphen"/>ſive way, to deſire what was undenyably their due, and dearly earned, and many other ſuch like procee<g ref="char:EOLhyphen"/>dings, both againſt the Army and others, do carry with them ſuch a face of Injuſtice, Oppreſſion, Arbi<g ref="char:EOLhyphen"/>trarineſſe and Tyranny, as (we think) is not to be paralleld in any former proceedings of the moſt Ar<g ref="char:EOLhyphen"/>bitrary Courts againſt any private men, but hath boought in inſufferable diſhonour upon the Parlia<g ref="char:EOLhyphen"/>mentary Authority and Ptoceedings, which we are, and others ought to be deeply ſenſible of, hath ten<g ref="char:EOLhyphen"/>ded to diſoblige all men, eſpecially Souldiers, or Subjects, and hath conduced to all other the ſad effecta and worſe conſequences expreſſed in the Charge, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gives us other cauſe to conclude, Than thoſe Worthies who have formerly acted and car<g ref="char:EOLhyphen"/>ryed on things in Parliament for publique good, Right and Freedom, are now awed or over-born by a prevailing party of men of other private Intereſts crept in, and that neither we, nor any other can rea<g ref="char:EOLhyphen"/>ſonably e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pect Right, Freedom or Safety (as private men) of to have things acted in Parliament for pub<g ref="char:EOLhyphen"/>licpve good, while the ſame parties continue there in the ſame power, to ab<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe the Name and Authority of Parliament, to ſerve nd p oſecu e their priva<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Intereſts and paſſions, and (under the privileges of
+<pb facs="tcp:114273:4"/> parliament) to ſhelter themſelues under the worſt of evils or miſchiefs they can do, though to the Ruin of the Kingdom.</p>
+            <p>And laſtly, conſidering the mul<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itudes of Refor<g ref="char:EOLhyphen"/>madoes and othe Souldiers ſwarming about the Ci<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y (whom the perſons we have charged and their com<g ref="char:EOLhyphen"/>plyces have at their beck to bring up to <hi>Weſtminſter</hi> when they pleaſe, and that by their frequent in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul<g ref="char:EOLhyphen"/>tuous confluences thither, beſetting and ſomtimes blocking up the Parliament doores, threatning, and offering violence, to the perſons of the moſt faithful Parliament-men, the juſt freedome of parliament ſeemes to be taken away, or at leaſt for the preſent a<g ref="char:EOLhyphen"/>bridged, inſomuch as thoſe Members who have ſer<g ref="char:EOLhyphen"/>ved the Kingdome hitherto with moſt faithfulneſſe, diligence, and integrity, for the publike good, many of them dare ſcarce come to the Houſe, or if they d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they come in feare and peril of their lives; and when they are there, are awed, diſcouraged, or diſabled from diſcharging t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir Conſciences, or doing their duties <hi>to</hi> the Kingdome.</p>
+            <p>A great part of our army quarters about Uxbridge, and a party of horſe are marched up further from us. It is ſaid, the Kings Maje<g ref="char:EOLhyphen"/>ſty lay at the Earle of Salisburies houſe upon Thurſday night laſt. Wee are in great expec<g ref="char:EOLhyphen"/>tation of an anſwer from the Parliament to the late Remonſtrance preſented to both Houſes. Thus, for the preſent, I remain</p>
+            <closer>
+               <dateline>
+                  <hi>Vxbridge</hi>
+                  <date>
+                     <hi>Iune</hi> 26. 1647. <hi>late at night.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours, to his power, WI. L GIB</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb facs="tcp:114273:5"/>
+            <head>The Deſires of his Excellency Sir Thomas Fairfax to the Army.</head>
+            <p>J do hereby ſtrictly charge and com<g ref="char:EOLhyphen"/>mand all Souldiers of the Army. Horſe and Foot, and all others whom it may concern, not to offer any violence, or doe any prejudice at all to any country man or other whomſoever (in their perſons, or goods) either in quarters, or upon their March thorow the Countries reſpective<g ref="char:EOLhyphen"/>ly, as they tender the honour of the Ar<g ref="char:EOLhyphen"/>my, and as they tender the avoyding of the ſevereſt puniſhment that may be infli<g ref="char:EOLhyphen"/>cted upon ſuch offendors by a Counſell of Warre.</p>
+            <closer>
+               <signed>Tho: Fairfax.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
